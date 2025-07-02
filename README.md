@@ -6,9 +6,7 @@ node -v
 
 npm -v
 ```
-偶数のversionにする
-
-v22.17.xなど
+偶数のversionにする →　v22.17.xなど
 
 <https://nodejs.org/en/download>
 
