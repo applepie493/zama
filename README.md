@@ -1,9 +1,14 @@
 # zama
 
 # 1.node version確認
-`node -v
+```
+node -v
 
-npm -v`
+npm -v
+```
+偶数のversionにする
+
+v22.17.xなど
 
 <https://nodejs.org/en/download>
 
@@ -34,7 +39,7 @@ Movementのテストネットがあり、興味があったのでdeployしてみ
 
 ## 1.プロジェクトディレクトリの作成する
 ```
-mkdir hardhat-move-evm
+mkdir hardhat-move-evm22
 ```
 
 ## 2.プロジェクトディレクトリへ移動
