@@ -10,6 +10,24 @@ npm -v
 
 <https://nodejs.org/en/download>
 
+# 2.リポジトリをclone
+<https://github.com/zama-ai/fhevm-hardhat-template>
+```
+cd <your-preferred-location>
+git clone <url-to-your-new-repo>
+cd <your-new-repo-name>
+```
+
+# 3.hardhat
+`npm install`
+`npx hardhat vars set MNEMONIC`
+
+
+
+
+
+
+
 
 
 # Movement-deploy
